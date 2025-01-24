@@ -15,27 +15,22 @@
 </div>
 
 <div style="width: 100%;" align="center">
-    <p style="width: 100%;" align="center">A Computer Science student at Valley View University.</p>
+    <p style="width: 100%;" align="center">The Education GitHub of Burkifa23, a Computer Science student at Valley View University.</p>
     
 </div>
 
 <h1 align="left">
     <img src="https://github.com/programmer-233.png" alt="programmer-233" height="32" />
     <u>
-        About me
+        This GitHub is for Burkifa23 Education Purposes.
     </u>
 </h1>
+<h1 align="left"><u>Github stats</u></h1>
 
 <img align="right" style="width: 44%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=programmer-233&show_icons=true&locale=en&layout=compact&theme=onedark" alt="programmer-233" />
-<p align="left">
-    - 📫 You can reach me <b><a href="https://github.com/programmer-233#contact-me">here</a></b><br>
-    - 🌟 Checkout my <a href="https://github.com/programmer-233?tab=repositories">projects</a> and leave a <b><i>STAR</i></b><br>
-    - 💡 Feel free to look at my last <a href="https://github.com/programmer-233/programmer-233">project</a><br>
 
-</p>
 
-<br>
-<h1 align="left"><u>Github stats</u></h1>
+
 
 <p align="center" style="width: 100%;">
     <span style="width: 100%;">
@@ -50,6 +45,23 @@
 Some Technologies that I use and can recommend.
 
 <br>
+# Get In Touch with Programmer-233 AKA Burkifa23
+
+<p aligned="center">
+    <a href="https://telegram.me/Burkifa23">
+        <img src="https://img.icons8.com/?size=100&id=F4ZPUh2Mk5tk&format=png&color=000000" height="64" width="64" alt="Message me on Telegram" />
+    </a>     
+    <a href="www.linkedin.com/in/frank-kwizera-mugwaneza">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="64" width="64" alt="Connect on LinkedIn"/>
+    </a>
+    <a href="https://x.com/burkifa23">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" height="64" width="64" alt="Tweet?"/>
+    </a>
+    <a href="https://www.instagram.com/frank.2.played_it/">
+        <img src='https://img.icons8.com/?size=100&id=32309&format=png&color=000000' height="64" width="64" alt="Instagram" />
+    </a>
+</p>
+
 
 # Programming Languages I'm Learning:
 <p>    
@@ -153,8 +165,9 @@ Some Technologies that I use and can recommend.
     width="92" height="92" />
     </a>
 </p>
-<h1 align="left"><u>Contact me</u></h1>
 
+<!--
+<h1 align="left"><u>Contact me</u></h1>
 <table>
     <tbody>
         <tr>
@@ -173,21 +186,8 @@ Some Technologies that I use and can recommend.
         </tr>
     </tbody>
 </table>
+-->
 
-<p aligned="center">
-    <a href="https://telegram.me/Burkifa23">
-        <img src="https://img.icons8.com/?size=100&id=F4ZPUh2Mk5tk&format=png&color=000000" height="64" width="64" alt="Message me on Telegram" />
-    </a>     
-    <a href="www.linkedin.com/in/frank-kwizera-mugwaneza-24951b234">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="64" width="64" alt="Connect on LinkedIn"/>
-    </a>
-    <a href="https://x.com/burkifa23">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" height="64" width="64" alt="Tweet?"/>
-    </a>
-    <a href="https://www.instagram.com/frank.2.played_it/">
-        <img src='https://img.icons8.com/?size=100&id=32309&format=png&color=000000' height="64" width="64" alt="Instagram" />
-    </a>
-</p>
 
 
 <br><br>
