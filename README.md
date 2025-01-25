@@ -25,19 +25,35 @@
         This GitHub is for Burkifa23 Education Purposes.
     </u>
 </h1>
+
+
+
+
+<!--
 <h1 align="left"><u>Github stats</u></h1>
-
-<img align="right" style="width: 44%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=programmer-233&show_icons=true&locale=en&layout=compact&theme=onedark" alt="programmer-233" />
-
-
-
-
 <p align="center" style="width: 100%;">
     <span style="width: 100%;">
-        <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=programmer-233&theme=onedark" alt="programmer-233" />
-        <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=programmer-233&show_icons=true&locale=en&theme=onedark" alt="programmer-233" />
+        <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=programmer-233&theme=transparent" alt="programmer-233" />
+        <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=programmer-233&show_icons=true&locale=en&theme=transparent" alt="programmer-233" />
+        <img align="right" style="width: 44%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=programmer-233&show_icons=true&locale=en&layout=compact&theme=transparent" alt="programmer-233" />
+
     </span>
 </p>
+-->
+
+# Github Stats & Analytics :
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=programmer-233&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=programmer-233&show_icons=true&bg_color=00000000&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=programmer-233&langs_count=8&card_width=320&show_icons=true&bg_color=00000000" />
+</a>
+
 
 
 <h1 align="left"><u>Techonologies</u></h1>
@@ -45,7 +61,8 @@
 Some Technologies that I use and can recommend.
 
 <br>
-# Get In Touch with Programmer-233 AKA Burkifa23
+
+# Get In Touch with Programmer-233 AKA 
 
 <p aligned="center">
     <a href="https://telegram.me/Burkifa23">
