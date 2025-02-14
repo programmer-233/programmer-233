@@ -56,9 +56,6 @@
 
 
 
-<h1 align="left"><u>Techonologies</u></h1>
-
-Some Technologies that I use and can recommend.
 
 <br>
 
@@ -205,7 +202,7 @@ Some Technologies that I use and can recommend.
 </table>
 -->
 
-<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥s</h2>
+<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥s< I am Learning/h2>
 <!-- <img src="skill.png"> -->
 <table align="center">
   <tr>
