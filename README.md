@@ -202,7 +202,7 @@
 </table>
 -->
 
-<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥s< I am Learning/h2>
+<h2 font-weight="bold">Technologies I am Learning and Using</h2>
 <!-- <img src="skill.png"> -->
 <table align="center">
   <tr>
